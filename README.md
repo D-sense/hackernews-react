@@ -7,7 +7,7 @@ Hackernews-react is project to experiment with HackerNews API and React framewor
 Thank you for considering contributing to the Hackernews-react project! If you are just getting started with React, I definitely advise you to PR.
 
 
-#S tack
+# Stack
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 Below you will find some information on how to perform common tasks.<br>
